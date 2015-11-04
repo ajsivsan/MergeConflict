@@ -1,3 +1,3 @@
 # MergeConflict
-line added by ajsivsanus
+Line added by ajsivsan
 this repository is to test merge conflict and its resolution
